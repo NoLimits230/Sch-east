@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "HUD Minimalis v1",
+    "desc": "HUD bersih dan ringan untuk SA:MP, cocok untuk PC spek rendah.",
+    "category": "HUD",
+    "file": "mods/hud_minimalis_v1.lua",
+    "size": "12 KB",
+    "date": "2024-01-01"
+  },
+  {
+    "id": 2,
+    "name": "Speedometer Neon",
+    "desc": "Speedometer dengan efek neon dan indikator RPM animasi.",
+    "category": "HUD",
+    "file": "mods/speedometer_neon.lua",
+    "size": "18 KB",
+    "date": "2024-01-02"
+  },
+  {
+    "id": 3,
+    "name": "Anti-Lag Lite",
+    "desc": "Script optimasi ringan untuk mengurangi lag di server padat.",
+    "category": "Script",
+    "file": "mods/antilag_lite.lua",
+    "size": "8 KB",
+    "date": "2024-01-03"
+  },
+  {
+    "id": 4,
+    "name": "Chat Logger",
+    "desc": "Simpan log chat otomatis ke file teks setiap sesi bermain.",
+    "category": "Script",
+    "file": "mods/chat_logger.lua",
+    "size": "6 KB",
+    "date": "2024-01-04"
+  },
+  {
+    "id": 5,
+    "name": "Mini Map Custom",
+    "desc": "Mini map dengan zoom adjustable dan penanda waypoint.",
+    "category": "HUD",
+    "file": "mods/minimap_custom.lua",
+    "size": "22 KB",
+    "date": "2024-01-05"
+  }
+]

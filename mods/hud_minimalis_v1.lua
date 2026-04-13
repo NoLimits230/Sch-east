@@ -1,0 +1,10 @@
+-- SCH SAMP Free Mod — HUD Minimalis v1
+-- Dibagikan gratis oleh komunitas SCH SAMP
+-- Discord: https://discord.gg/schedule-2-2-969878702831857664
+-- WhatsApp: 081330668094
+--
+-- Letakkan file ini di folder SAMP/scripts/
+-- Aktifkan dengan mengetik /hud di chat game
+--
+-- (Ini adalah file contoh placeholder.
+--  Ganti dengan file Lua mod asli kamu.)
